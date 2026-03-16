@@ -25,10 +25,10 @@ It provides a clean and modern user interface for login forms.
 📂 Project Structure
 
 Login-Page
-│
-├── index.html
-├── style.css
-└── README.md
+
+~index.html
+~style.css
+~README.md
 
 ---
 
